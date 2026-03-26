@@ -1,0 +1,21 @@
+name: .NET Tests
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - run: dotnet restore ISTU_TEST_LR1.sln
+      - run: dotnet build ISTU_TEST_LR1.sln --configuration Release --no-restore
+      - run: dotnet test ISTU_TEST_LR1.sln --configuration Release --no-build

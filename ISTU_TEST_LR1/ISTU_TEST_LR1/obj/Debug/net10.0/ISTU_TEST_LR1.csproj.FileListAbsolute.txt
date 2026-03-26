@@ -1,0 +1,11 @@
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\bin\Debug\net10.0\ISTU_TEST_LR1.deps.json
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\bin\Debug\net10.0\ISTU_TEST_LR1.dll
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\bin\Debug\net10.0\ISTU_TEST_LR1.pdb
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ISTU_TEST_LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ISTU_TEST_LR1.AssemblyInfoInputs.cache
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ISTU_TEST_LR1.AssemblyInfo.cs
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ISTU_TEST_LR1.csproj.CoreCompileInputs.cache
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ISTU_TEST_LR1.dll
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\refint\ISTU_TEST_LR1.dll
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ISTU_TEST_LR1.pdb
+C:\Users\manll\OneDrive\Desktop\ISTU_TEST_LR1\ISTU_TEST_LR1\ISTU_TEST_LR1\obj\Debug\net10.0\ref\ISTU_TEST_LR1.dll

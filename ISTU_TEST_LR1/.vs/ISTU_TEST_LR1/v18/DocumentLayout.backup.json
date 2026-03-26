@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\123\\ISTU_TEST_LR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A3C856-6834-D657-F2F0-05592DF2DDE9}|workflows{E7A3C856-6834-D657-F2F0-05592DF2DDE9}|C:\\123\\ISTU_TEST_LR1\\dotnet-tests.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{E7A3C856-6834-D657-F2F0-05592DF2DDE9}|workflows{E7A3C856-6834-D657-F2F0-05592DF2DDE9}|solutionrelative:dotnet-tests.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|c:\\123\\istu_test_lr1\\istu_test_lr1.tests\\conditiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|solutionrelative:istu_test_lr1.tests\\conditiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|c:\\123\\istu_test_lr1\\istu_test_lr1.tests\\equivalenceclasstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|solutionrelative:istu_test_lr1.tests\\equivalenceclasstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|c:\\123\\istu_test_lr1\\istu_test_lr1.tests\\keyelementpositiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|solutionrelative:istu_test_lr1.tests\\keyelementpositiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|c:\\123\\istu_test_lr1\\istu_test_lr1.tests\\controlflowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ACF7C2-B9E6-1319-1FDA-F57FDFE24DA8}|ISTU_TEST_LR1.Tests\\ISTU_TEST_LR1.Tests.csproj|solutionrelative:istu_test_lr1.tests\\controlflowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B368DD-47BA-967B-2E55-6416D4F43D6F}|ISTU_TEST_LR1\\ISTU_TEST_LR1.csproj|c:\\123\\istu_test_lr1\\istu_test_lr1\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B368DD-47BA-967B-2E55-6416D4F43D6F}|ISTU_TEST_LR1\\ISTU_TEST_LR1.csproj|solutionrelative:istu_test_lr1\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B368DD-47BA-967B-2E55-6416D4F43D6F}|ISTU_TEST_LR1\\ISTU_TEST_LR1.csproj|c:\\123\\istu_test_lr1\\istu_test_lr1\\arrayprocessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B368DD-47BA-967B-2E55-6416D4F43D6F}|ISTU_TEST_LR1\\ISTU_TEST_LR1.csproj|solutionrelative:istu_test_lr1\\arrayprocessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dotnet-tests.yml",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\dotnet-tests.yml",
+              "RelativeDocumentMoniker": "dotnet-tests.yml",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\dotnet-tests.yml",
+              "RelativeToolTip": "dotnet-tests.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-26T06:36:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConditionTests.cs",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\ConditionTests.cs",
+              "RelativeDocumentMoniker": "ISTU_TEST_LR1.Tests\\ConditionTests.cs",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\ConditionTests.cs",
+              "RelativeToolTip": "ISTU_TEST_LR1.Tests\\ConditionTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:07:22.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquivalenceClassTests.cs",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\EquivalenceClassTests.cs",
+              "RelativeDocumentMoniker": "ISTU_TEST_LR1.Tests\\EquivalenceClassTests.cs",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\EquivalenceClassTests.cs",
+              "RelativeToolTip": "ISTU_TEST_LR1.Tests\\EquivalenceClassTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:05:38.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyElementPositionTests.cs",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\KeyElementPositionTests.cs",
+              "RelativeDocumentMoniker": "ISTU_TEST_LR1.Tests\\KeyElementPositionTests.cs",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\KeyElementPositionTests.cs",
+              "RelativeToolTip": "ISTU_TEST_LR1.Tests\\KeyElementPositionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:04:22.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlFlowTests.cs",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\ControlFlowTests.cs",
+              "RelativeDocumentMoniker": "ISTU_TEST_LR1.Tests\\ControlFlowTests.cs",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1.Tests\\ControlFlowTests.cs",
+              "RelativeToolTip": "ISTU_TEST_LR1.Tests\\ControlFlowTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:57:44.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayProcessor.cs",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1\\ArrayProcessor.cs",
+              "RelativeDocumentMoniker": "ISTU_TEST_LR1\\ArrayProcessor.cs",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1\\ArrayProcessor.cs",
+              "RelativeToolTip": "ISTU_TEST_LR1\\ArrayProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:55:21.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayProcessResult.cs",
+              "DocumentMoniker": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1\\ArrayProcessResult.cs",
+              "RelativeDocumentMoniker": "ISTU_TEST_LR1\\ArrayProcessResult.cs",
+              "ToolTip": "C:\\123\\ISTU_TEST_LR1\\ISTU_TEST_LR1\\ArrayProcessResult.cs",
+              "RelativeToolTip": "ISTU_TEST_LR1\\ArrayProcessResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:54:42.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
